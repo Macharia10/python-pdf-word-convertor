@@ -1,1 +1,4 @@
-# python-pdf-word-convertor
+# python pdf word convertor
+
+##Installation
+run`python install r- requirements.txt`
